@@ -1,6 +1,6 @@
 - 👋 Hi! I am Janhavi Obhan. (@jjaann2809)
 - 👀 I’m interested in AI technologies and project management.
-- 🌱 I’m currently learning a litte bit of everything!
+- 🌱 I’m currently learning anything and everything!
 - 💞️ I’m looking to collaborate on creative project ideas using AI!
 - 📫 How to reach me: janhavi.obhan@somaiya.edu
 
