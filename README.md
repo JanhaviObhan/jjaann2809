@@ -1,4 +1,4 @@
-- 👋 Hi! I am Janhavi Obhan. (@jjaann2809)
+## Hi! 👋  I am Janhavi Obhan. (@jjaann2809)
 - 👀 I’m interested in AI technologies and project management.
 - 🌱 I’m currently learning anything and everything!
 - 💞️ I’m looking to collaborate on creative project ideas using AI!
