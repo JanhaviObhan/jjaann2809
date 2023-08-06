@@ -1,8 +1,8 @@
 ## Hi! 👋  I am Janhavi Obhan. _(@jjaann2809)_
-- 👀 I’m interested in `AI technologies` and `project management`
-- 🌱 I’m currently learning anything and everything!
-- 💞️ I’m looking to collaborate on creative project ideas using AI!
-- 📫 How to reach me: `janhavi.obhan@somaiya.edu`
+- 🌱 I am currently pursuing my Masters in Engineering Management from Dartmouth College 📚
+- 👀 I am  passionate about integrating `strategic design thinking` and `data-driven insights` for product success and global impact!
+- 🤹🏼 I bring a diverse skill set in programming, machine learning, competitive market research, design thinking, and project management ✨
+- 📫 How to reach me: `janhavi.obhan28@gmail.com`
 
 <!---
 jjaann2809/jjaann2809 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
